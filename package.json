@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "dependencies": {
     "fs": "^0.0.1-security",
     "inquirer": "^9.3.5",
@@ -11,7 +12,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Akash",
   "license": "ISC",
-  "description": ""
+  "description": "Generating qr code"
 }
